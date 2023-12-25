@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dragon2462/Trial-React-App./static/css/main.1328b32e.css",
+    "main.js": "/dragon2462/Trial-React-App./static/js/main.170cb3a9.js",
+    "static/js/787.099df55c.chunk.js": "/dragon2462/Trial-React-App./static/js/787.099df55c.chunk.js",
+    "index.html": "/dragon2462/Trial-React-App./index.html",
+    "main.1328b32e.css.map": "/dragon2462/Trial-React-App./static/css/main.1328b32e.css.map",
+    "main.170cb3a9.js.map": "/dragon2462/Trial-React-App./static/js/main.170cb3a9.js.map",
+    "787.099df55c.chunk.js.map": "/dragon2462/Trial-React-App./static/js/787.099df55c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1328b32e.css",
+    "static/js/main.170cb3a9.js"
+  ]
+}
