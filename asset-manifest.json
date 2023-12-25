@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1328b32e.css",
-    "main.js": "/static/js/main.ae35b474.js",
-    "static/js/787.099df55c.chunk.js": "/static/js/787.099df55c.chunk.js",
-    "index.html": "/index.html",
-    "main.1328b32e.css.map": "/static/css/main.1328b32e.css.map",
-    "main.ae35b474.js.map": "/static/js/main.ae35b474.js.map",
-    "787.099df55c.chunk.js.map": "/static/js/787.099df55c.chunk.js.map"
+    "main.css": "/dragon2462/Trial-React-App/static/css/main.1328b32e.css",
+    "main.js": "/dragon2462/Trial-React-App/static/js/main.e140b3dc.js",
+    "static/js/787.099df55c.chunk.js": "/dragon2462/Trial-React-App/static/js/787.099df55c.chunk.js",
+    "index.html": "/dragon2462/Trial-React-App/index.html",
+    "main.1328b32e.css.map": "/dragon2462/Trial-React-App/static/css/main.1328b32e.css.map",
+    "main.e140b3dc.js.map": "/dragon2462/Trial-React-App/static/js/main.e140b3dc.js.map",
+    "787.099df55c.chunk.js.map": "/dragon2462/Trial-React-App/static/js/787.099df55c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1328b32e.css",
-    "static/js/main.ae35b474.js"
+    "static/js/main.e140b3dc.js"
   ]
 }
